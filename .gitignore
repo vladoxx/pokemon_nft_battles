@@ -1,0 +1,5 @@
+# Ignorar a pasta .deps
+.deps/
+
+# Ignorar la carpeta artifacts dentro de contracts
+contracts/DIOPokemonNFT/artifacts/
