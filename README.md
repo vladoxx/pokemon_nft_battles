@@ -1,4 +1,4 @@
-# PokeDIO - Contrato de Batalhas de Pokémon na Blockchain
+# PokeDIO - Contrato inteligente de Batalhas de Pokémon na Blockchain
 
 
 Este contrato foi desenvolvido utilizando a tecnologia de blockchain e visa criar uma plataforma de batalhas entre Pokémons tokenizados como NFTs (Non-Fungible Tokens). O contrato permite que o proprietário do jogo crie novos Pokémons e os associe a jogadores. Cada jogador pode ter até dois Pokémons, e as batalhas entre eles são baseadas nos níveis e experiência de cada Pokémon.
